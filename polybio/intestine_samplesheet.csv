@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+SMLC_003_S20,https://raw.githubusercontent.com/411an13/test-datasets/fastp-test-data/polybio/intestine_raw_test/SMLC_003_S20_R1_001.test.fastq.gz,https://raw.githubusercontent.com/411an13/test-datasets/fastp-test-data/polybio/intestine_raw_test/SMLC_003_S20_R2_001.test.fastq.gz
+SMLC_004_L_Colon_S19,https://raw.githubusercontent.com/411an13/test-datasets/fastp-test-data/polybio/intestine_raw_test/SMLC_004_L_Colon_S19_R1_001.test.fastq.gz,https://raw.githubusercontent.com/411an13/test-datasets/fastp-test-data/polybio/intestine_raw_test/SMLC_004_L_Colon_S19_R2_001.test.fastq.gz
+SMLC_004_Ti_S18,https://raw.githubusercontent.com/411an13/test-datasets/fastp-test-data/polybio/intestine_raw_test/SMLC_004_Ti_S18_R1_001.test.fastq.gz,https://raw.githubusercontent.com/411an13/test-datasets/fastp-test-data/polybio/intestine_raw_test/SMLC_004_Ti_S18_R2_001.test.fastq.gz
